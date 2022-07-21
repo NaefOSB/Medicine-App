@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935216044957",
+    "project_id": "medicine-app-c180e",
+    "storage_bucket": "medicine-app-c180e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935216044957:android:92fd4fe6ba71662dc46d74",
+        "android_client_info": {
+          "package_name": "com.novelsoft_ye.medicine_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935216044957-7ktp9aln7bbfasim56h0uiida88n68js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novelsoft_ye.medicine_app",
+            "certificate_hash": "5b049e5ceea33dc2f170e3d3f073059b2d8e69c7"
+          }
+        },
+        {
+          "client_id": "935216044957-tu2pfi0hpa4bl05b8n36uv454j36h5ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmE_0VNbMXNBhyr7ildf9tW8N_srU_4lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935216044957-tu2pfi0hpa4bl05b8n36uv454j36h5ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
